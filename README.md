@@ -1,4 +1,4 @@
-````md
+```
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:C770F0,100:FF69B4&height=180&section=header&text=Khushboo%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -302,6 +302,7 @@ console.log(khushboo);
 <br><br>
 
 ## 💜 Thanks for visiting my profile 💜
+```
 
 ### ⭐ Star my repositories if you like my work ⭐
 
