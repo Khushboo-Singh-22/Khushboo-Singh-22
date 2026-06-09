@@ -1,147 +1,137 @@
-```
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:C770F0,100:FF69B4&height=180&section=header&text=Khushboo%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:8A2BE2,100:FF4ECD&height=220&section=header&text=Khushboo%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<h1>
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Khushboo Singh
-</h1>
-
-<h3>🚀 Full Stack Developer | MERN Stack | Java Developer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1200&color=C770F0&center=true&vCenter=true&repeat=true&width=900&lines=💜+Building+scalable+web+applications;✨+Turning+ideas+into+reality;🚀+Full+Stack+Developer;💻+MERN+Stack+%7C+Java+Developer;🌸+Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&duration=2500&pause=900&color=FF4ECD&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Khushboo+Singh;Full+Stack+Developer+🚀;MERN+Stack+Developer+💻;Java+Developer+☕;Building+Scalable+Web+Applications+✨"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Khushboo-Singh-22&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Khushboo-Singh-22?style=for-the-badge&logo=github&color=purple"/>
-<img src="https://img.shields.io/github/stars/Khushboo-Singh-22?style=for-the-badge&logo=github&color=ff69b4"/>
+<img src="https://komarev.com/ghpvc/?username=Khushboo-Singh-22&label=Profile%20Views&color=ff4ecd&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Khushboo-Singh-22?style=for-the-badge&logo=github&color=8A2BE2"/>
+<img src="https://img.shields.io/github/stars/Khushboo-Singh-22?style=for-the-badge&logo=github&color=FF69B4"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💜 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🌸 BCA Graduate  
+```js
+const khushboo = {
+  name: "Khushboo Singh",
+  role: "Full Stack Developer",
+  focus: ["MERN Stack", "Java", "Spring Boot"],
+  learning: ["DSA", "System Design", "Backend Development"],
+  goal: "Product-Based Software Engineer",
+  mindset: "Code • Build • Learn • Repeat 🚀"
+};
+````
 
-💻 Full Stack Developer  
-
-🚀 MERN Stack & Java Developer  
-
-📱 Flutter Intern  
-
-🌱 Currently Learning **Spring Boot, System Design & DSA**  
-
-🎯 Goal: Become a Product-Based Software Engineer  
-
-💜 Passionate about building scalable and beautiful applications  
-
-⚡ I love solving real-world problems through code  
+🌸 BCA Graduate
+💻 Full Stack Developer
+🚀 MERN Stack & Java Developer
+📱 Flutter Intern
+🌱 Currently learning **Spring Boot, DSA & System Design**
+🎯 Goal: Become a **Product-Based Software Engineer**
+💜 Passionate about building scalable and beautiful applications
 
 <br clear="right"/>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/khushboo-s-singh">
-<img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ks0089403@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Khushboo-Singh-22">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 💻 Languages
+<div align="center">
 
-<p align="center">
+### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=java,js,php,python,c,cpp"/>
-</p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
-</p>
 
-## ⚙ Backend
+### ⚙ Backend
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
-</p>
 
-## 🗄 Database
+### 🗄 Database
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-</p>
 
-## 🛠 Tools
+### 🧰 Tools
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,linux"/>
-</p>
+
+</div>
 
 ---
 
-# 🌟 Core Strengths
+## 🌟 Core Strengths
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/MERN%20Stack-C770F0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java%20Development-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Authentication-9370DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Responsive%20UI-BA55D3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database%20Design-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-FF4ECD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java%20Development-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20UI-C770F0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Design-9370DB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-4B0082?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-## 🎵 Soulify Music Platform
+### 🎵 Soulify Music Platform
 
 A MERN-based music streaming platform with artist and user roles.
 
-🎧 Artist & User Authentication  
-🎼 Music Upload  
-📀 Album Management  
-🎨 Responsive Design  
+* Artist & User Authentication
+* Music Upload
+* Album Management
+* Search & Responsive UI
 
 </td>
-
 <td width="50%">
 
-## 💼 AI Resume Builder
+### 💼 AI Resume Builder
 
 A smart resume builder with ATS score and resume templates.
 
-📄 ATS Score  
-📄 Resume Templates  
-📄 PDF Download  
-📄 Smart Suggestions  
+* ATS Score
+* Resume Templates
+* PDF Download
+* Smart Suggestions
 
 </td>
 </tr>
@@ -149,27 +139,26 @@ A smart resume builder with ATS score and resume templates.
 <tr>
 <td width="50%">
 
-## 🛒 E-Commerce Website
+### 🛒 E-Commerce Website
 
 A responsive shopping website with cart and product management.
 
-🛍 Authentication  
-🛍 Shopping Cart  
-🛍 Product Management  
-🛍 Responsive UI  
+* Product Listing
+* Shopping Cart
+* Admin Product Management
+* Responsive Design
 
 </td>
-
 <td width="50%">
 
-## 📝 Post Web Application
+### 📝 Post Web Application
 
 A clean post-sharing application with image upload.
 
-🖼 Image Upload  
-🖼 Create Posts  
-🖼 Delete Posts  
-🖼 Responsive Feed  
+* Image Upload
+* Create Posts
+* Delete Posts
+* Responsive Feed
 
 </td>
 </tr>
@@ -177,47 +166,42 @@ A clean post-sharing application with image upload.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushboo-Singh-22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushboo-Singh-22&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo-Singh-22&layout=compact&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushboo-Singh-22&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushboo-Singh-22&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushboo-Singh-22&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Khushboo-Singh-22&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Khushboo-Singh-22&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushboo-Singh-22&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushboo-Singh-22&theme=redical&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -227,7 +211,7 @@ A clean post-sharing application with image upload.
 
 ---
 
-# 💻 Daily Routine
+## 💻 Daily Routine
 
 ```java
 while(!success){
@@ -241,74 +225,44 @@ while(!success){
     debug();
 
     improve();
-
 }
 
 System.out.println("Dream Job Loading... 🚀");
-````
-
----
-
-# 💜 Developer Mindset
-
-```javascript
-const khushboo = {
-
-name:"Khushboo Singh",
-
-role:"Full Stack Developer",
-
-skills:["MERN","Java","PHP","Flutter"],
-
-passion:"Building Real World Projects",
-
-motto:"Code • Build • Learn • Repeat 🚀"
-
-};
-
-console.log(khushboo);
 ```
 
 ---
 
-# 🌸 Fun Fact
+## 🌸 Fun Fact
 
-<p align="center">
+<div align="center">
 
 ✨ I love building modern web applications
-
 💜 Coffee + Code + Consistency
-
 🚀 Learning something new every day
 
-</p>
+</div>
 
 ---
 
-# ✨ Quote
+## ✨ Quote
 
-<p align="center">
+<div align="center">
 
-<b>"Success isn't about being perfect. It's about being consistent."</b>
+### “Success isn't about being perfect. It's about being consistent.”
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+💜;Star+my+repositories+if+you+like+my+work+⭐;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Repeat+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=900&color=FF4ECD&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile+💜;Star+my+repositories+if+you+like+my+work+⭐;Code+•+Build+•+Learn+•+Repeat+🚀"/>
 
-<br><br>
+<br>
 
 ## 💜 Thanks for visiting my profile 💜
-```
 
-### ⭐ Star my repositories if you like my work ⭐
-
-### 🚀 Code • Build • Learn • Repeat 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C770F0,100:8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,50:8A2BE2,100:0F0C29&height=130&section=footer"/>
 
 </div>
 ```
