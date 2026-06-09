@@ -38,7 +38,7 @@
 
 📍 Mumbai, India
 
-📧 Email: ks0089403@gmail.com
+📧 Email: khushboosingh1322@gmail.com
 
 <br>
 
