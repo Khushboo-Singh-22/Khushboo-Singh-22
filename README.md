@@ -242,10 +242,11 @@ class Khushboo{
 </a>
 
 <a href="#">
+   <a href="mailto:www.linkedin.com/in/khushboo-s-singh">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:ks0089403@gmail.com">
+<a href="mailto:khushboosingh1322@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
